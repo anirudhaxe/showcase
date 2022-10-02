@@ -13,7 +13,7 @@ const App = () => {
                         million people using ProNef 
                         Marketplace."
 
-          // showBtn
+          showBtn
           mockupImg={assets.homeHero}
           banner="banner"
         
